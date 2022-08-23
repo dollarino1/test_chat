@@ -26,6 +26,8 @@ body {
 .body {
     background: antiquewhite;
     min-height: 70vh;
+    display: flex;
+    justify-content: end;
 }
 .text-bar{
     background: blueviolet;
